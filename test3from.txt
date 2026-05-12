@@ -1,0 +1,15 @@
+books
+chairs
+glasses
+keys
+lenses
+apple
+mountain
+whisper
+ocean
+journey
+forest
+candle
+melody
+tunnel
+fabric
